@@ -27,3 +27,21 @@
 2.map<int,vector<int>>  
 3.set<pair<int,string>>  
 4.vector<map<int,set<int>>  
+
+
+**Iterators**  
+1.begin()  
+2.end()  
+3.vector<int>::iterator ite  
+
+**Algorithms**  
+1.upper_bound()  
+2.lower_bound()  
+3.max_element()  
+4.accumulate()  
+5.reverse()  
+6.count()  
+7.find()  
+8.next_permutation()  
+9.prev_permutation()  
+
